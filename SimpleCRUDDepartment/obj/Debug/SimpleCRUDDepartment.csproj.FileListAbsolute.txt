@@ -1,0 +1,16 @@
+C:\Users\PC-ELGATEK05\source\repos\SimpleCRUDDepartment\SimpleCRUDDepartment\bin\Debug\SimpleCRUDDepartment.exe.config
+C:\Users\PC-ELGATEK05\source\repos\SimpleCRUDDepartment\SimpleCRUDDepartment\bin\Debug\SimpleCRUDDepartment.exe
+C:\Users\PC-ELGATEK05\source\repos\SimpleCRUDDepartment\SimpleCRUDDepartment\bin\Debug\SimpleCRUDDepartment.pdb
+C:\Users\PC-ELGATEK05\source\repos\SimpleCRUDDepartment\SimpleCRUDDepartment\bin\Debug\BLL.dll
+C:\Users\PC-ELGATEK05\source\repos\SimpleCRUDDepartment\SimpleCRUDDepartment\bin\Debug\DAL.dll
+C:\Users\PC-ELGATEK05\source\repos\SimpleCRUDDepartment\SimpleCRUDDepartment\bin\Debug\BLL.pdb
+C:\Users\PC-ELGATEK05\source\repos\SimpleCRUDDepartment\SimpleCRUDDepartment\bin\Debug\DAL.pdb
+C:\Users\PC-ELGATEK05\source\repos\SimpleCRUDDepartment\SimpleCRUDDepartment\bin\Debug\DAL.dll.config
+C:\Users\PC-ELGATEK05\source\repos\SimpleCRUDDepartment\SimpleCRUDDepartment\obj\Debug\SimpleCRUDDepartment.csproj.AssemblyReference.cache
+C:\Users\PC-ELGATEK05\source\repos\SimpleCRUDDepartment\SimpleCRUDDepartment\obj\Debug\SimpleCRUDDepartment.Form1.resources
+C:\Users\PC-ELGATEK05\source\repos\SimpleCRUDDepartment\SimpleCRUDDepartment\obj\Debug\SimpleCRUDDepartment.Properties.Resources.resources
+C:\Users\PC-ELGATEK05\source\repos\SimpleCRUDDepartment\SimpleCRUDDepartment\obj\Debug\SimpleCRUDDepartment.csproj.GenerateResource.cache
+C:\Users\PC-ELGATEK05\source\repos\SimpleCRUDDepartment\SimpleCRUDDepartment\obj\Debug\SimpleCRUDDepartment.csproj.CoreCompileInputs.cache
+C:\Users\PC-ELGATEK05\source\repos\SimpleCRUDDepartment\SimpleCRUDDepartment\obj\Debug\SimpleCRUDDepartment.csproj.CopyComplete
+C:\Users\PC-ELGATEK05\source\repos\SimpleCRUDDepartment\SimpleCRUDDepartment\obj\Debug\SimpleCRUDDepartment.exe
+C:\Users\PC-ELGATEK05\source\repos\SimpleCRUDDepartment\SimpleCRUDDepartment\obj\Debug\SimpleCRUDDepartment.pdb

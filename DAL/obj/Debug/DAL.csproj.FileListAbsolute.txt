@@ -1,0 +1,7 @@
+C:\Users\PC-ELGATEK05\source\repos\SimpleCRUDDepartment\DAL\bin\Debug\DAL.dll.config
+C:\Users\PC-ELGATEK05\source\repos\SimpleCRUDDepartment\DAL\bin\Debug\DAL.dll
+C:\Users\PC-ELGATEK05\source\repos\SimpleCRUDDepartment\DAL\bin\Debug\DAL.pdb
+C:\Users\PC-ELGATEK05\source\repos\SimpleCRUDDepartment\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\PC-ELGATEK05\source\repos\SimpleCRUDDepartment\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\PC-ELGATEK05\source\repos\SimpleCRUDDepartment\DAL\obj\Debug\DAL.dll
+C:\Users\PC-ELGATEK05\source\repos\SimpleCRUDDepartment\DAL\obj\Debug\DAL.pdb
